@@ -1,3 +1,4 @@
+custom.property: "CUSTOM PROPERTY"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform: "postgres"
 spring.jpa.show-sql: "false"
